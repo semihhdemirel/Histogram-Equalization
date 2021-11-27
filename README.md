@@ -1,7 +1,7 @@
 # Histogram-Equalization
 
-### Input Image
-![GitHub Logo](/images/Chest_X-Ray_Before_HE.jpg)
+### Before Histogram Equalization
+![GitHub Logo](/images/Chest_X-Ray_Before_HE.jpeg)
 <br><br>
-### Output Image
-![GitHub Logo](/images/Chest_X-Ray_After_HE.jpg)
+### After Histogram Equalization
+![GitHub Logo](/images/Chest_X-Ray_After_HE.jpeg)
